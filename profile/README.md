@@ -23,30 +23,6 @@ A smart system designed to help table tennis players monitor their technique, ev
 - Integration with IMU sensors for racket swing speed, impact force, and spin prediction.
 - Real-time video overlay and dashboard for performance tracking.
 
-### 2. [IoT-based Water Quality Monitoring](https://github.com/Infera-Cognix-Labs/Water-Quality-Monitoring)
-A project designed to monitor the water quality using a network of sensors (pH, TDS, temperature) and provide real-time analytics through a cloud dashboard.
-
-#### Key Features:
-- Real-time data collection from various water quality sensors.
-- Cloud integration for storing and visualizing water quality data.
-- Alert system for detecting unsafe water conditions.
-
-### 3. [Sign Language Recognition System](https://github.com/Infera-Cognix-Labs/Sign-Language-Recognition)
-A system that uses deep learning and computer vision to recognize and translate sign language into text or speech in real time.
-
-#### Key Features:
-- Uses YOLO and deep learning models for sign language gesture detection.
-- Real-time translation of sign language into text or voice.
-- A mobile app interface for users to interact with the system.
-
-### 4. [Smart Greenhouse Management System](https://github.com/Infera-Cognix-Labs/Smart-Greenhouse-Management)
-An IoT-powered greenhouse management system that monitors environmental factors such as humidity, temperature, soil moisture, and light to optimize plant growth.
-
-#### Key Features:
-- Data collection from environmental sensors (humidity, temperature, moisture).
-- Automated control of irrigation and ventilation systems based on sensor data.
-- Cloud-based dashboard for real-time monitoring and control.
-
 ## Join Us
 
 We welcome contributions and collaboration from passionate developers and researchers. If you're interested in contributing to any of our projects, please follow the guidelines in each repository.
