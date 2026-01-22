@@ -28,7 +28,7 @@ A smart system designed to help table tennis players monitor their technique, ev
 
 We welcome contributions and collaboration from passionate developers and researchers. If you're interested in contributing to any of our projects, please follow the guidelines in each repository.
 
-For collaboration or inquiries, feel free to reach out to us through our GitHub issues page or via email at contact@infera-cognix-labs.com.
+For collaboration or inquiries, feel free to reach out to us through our GitHub issues page or via @ChinotChese.
 
 ## Contributing
 Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for information on how to contribute to our projects. We accept contributions via pull requests, bug reports, and feature requests.
